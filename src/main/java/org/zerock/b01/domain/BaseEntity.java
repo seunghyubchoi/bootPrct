@@ -1,4 +1,4 @@
-package zerock.b01.domain;
+package org.zerock.b01.domain;
 
 import javax.persistence.Column;
 import javax.persistence.EntityListeners;
